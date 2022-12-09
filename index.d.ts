@@ -32,3 +32,4 @@ type TAPIAvoResponse = {
   data: TProduct[]
   error?: string
 }
+
